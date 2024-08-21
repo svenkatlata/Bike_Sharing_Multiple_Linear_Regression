@@ -28,18 +28,17 @@ Based on various meteorological surveys and people's styles, the service provide
 ## Conclusions
 
 1. **Temperature:**
+
    - **Coefficient:** 0.4254
    - **Insight:** Each 1°C increase in temperature is associated with an increase of approximately 0.43 units in the target variable. Warmer temperatures have a strong positive impact, so it's crucial to ensure resources and strategies align with warmer periods to maximize outcomes.
 
----
-
 2. **Year Effect:**
+
    - **2019:** Coefficient = 0.2496
    - **Insight:** Being in the year 2019 is associated with a significant increase in the target variable. This suggests a positive trend or event specific to 2019 that drove higher outcomes. Understanding these factors can help replicate success in future years.
 
----
-
 3. **Seasonal Effects:**
+
    - **Spring:** Coefficient = -0.1551
      - **Insight:** The target variable decreases during the spring season. This might indicate less favorable conditions or lower demand, necessitating adjustments in operations or marketing during this period.
    - **October:** Coefficient = 0.0890
@@ -49,41 +48,33 @@ Based on various meteorological surveys and people's styles, the service provide
    - **July:** Coefficient = -0.0591
      - **Insight:** The target variable tends to decrease in July. This drop might be due to seasonal factors like vacations or reduced activity, requiring tailored strategies to mitigate this effect.
 
----
-
 4. **Humidity:**
+
    - **Coefficient:** -0.1447
    - **Insight:** Each 1% increase in humidity is associated with a decrease of 0.14 units in the target variable. High humidity has a dampening effect, possibly making conditions less favorable. Strategies might include adjustments or incentives during humid periods.
 
----
-
 5. **Weather Situations:**
+
    - **Good Weather:** Coefficient = 0.0512
      - **Insight:** Good weather situations have a positive effect on the target variable, leading to an increase. This suggests that favorable weather conditions should be a key consideration in planning and marketing efforts.
    - **Bad Weather:** Coefficient = -0.1443
      - **Insight:** Bad weather conditions lead to a significant decrease in the target variable. It's important to anticipate this drop and possibly counteract it with promotions or operational adjustments during adverse weather.
 
----
-
 6. **Wind Speed:**
+
    - **Coefficient:** -0.0895
    - **Insight:** Higher wind speeds negatively impact the target variable, leading to a decrease. This could indicate less favorable conditions for activities or behaviors driving the target variable, suggesting a need for adjustments or communication during windy conditions.
 
----
-
 7. **Weekday Saturday:**
+
    - **Coefficient:** 0.0908
    - **Insight:** The target variable increases on Saturdays, highlighting the importance of this day in planning operations or marketing. Higher availability and targeted promotions could help capitalize on this weekend boost.
-
----
 
 8. **Working Day:**
    - **Coefficient:** 0.0571
    - **Insight:** The target variable is higher on working days compared to non-working days, indicating a work-related or weekday-driven demand. This insight can be used to optimize scheduling and resource allocation during the workweek.
 
----
-
-### Recommendations:
+## Recommendations:
 
 - **Align Operations with Weather and Seasonal Trends:** Adjust availability, marketing, and resources to align with favorable weather conditions and peak months, particularly in warm weather and during high-demand months like September and October.
 - **Targeted Promotions:** Use seasonal and weather-based promotions to counteract negative impacts from factors like humidity, wind, or bad weather conditions.
